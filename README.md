@@ -1,60 +1,63 @@
-👩🏻‍💻 Sprint 1 – TripleTen QA Bootcamp
+# 👩🏻‍💻 Sprint 1 — Regression Testing (Urban Routes)
 
-Junior QA Engineer | Teste de Regressão – Urban Routes
+## 🧪 Project Overview
 
-Este repositório contém os casos de teste e bugs identificados durante o Sprint 1 do bootcamp de QA da TripleTen, com foco em teste de regressão do aplicativo Urban Routes.
+This project was developed during the TripleTen QA Bootcamp and focuses on regression testing of the Urban Routes application.
 
-O Urban Routes é um aplicativo que cria rotas e calcula tempo e custo de viagem para diferentes tipos de transporte, com campos “De” e “Para” e modos de viagem (“Optimal”, “Flash” e “Personal”).
+Urban Routes is a ride-sharing application that generates routes and calculates travel time and cost based on different transportation modes, using "From" and "To" fields and options such as Optimal, Flash, and Personal.
 
-🧩 Objetivos do Sprint 1
+---
 
-Executar casos de teste manuais preparados pela equipe de QA
+## 🧩 Objectives
 
-Identificar diferenças entre resultados esperados e resultados reais
+- Execute predefined manual regression test cases  
+- Identify discrepancies between expected and actual results  
+- Document defects with clear reproduction steps and priority  
+- Validate core application functionality  
+- Demonstrate QA testing fundamentals  
 
-Documentar bugs encontrados com prioridade e etapas de reprodução
+---
 
-Validar funcionalidades principais do aplicativo Urban Routes
+## 📁 Project Structure
 
-Preparar evidências que demonstrem habilidades de QA Junior
+sprint1/  
+├── README.md  
+├── TestCases_Sprint1.xlsx  
+├── BugReports_Sprint1.xlsx  
 
-📁 Estrutura da pasta
-sprint1/
-├── README.md
-├── TestCases_Sprint1.xlsx
-├── BugReports_Sprint1.xlsx
+---
 
-▶️ Como acessar os arquivos de QA
+## 📊 Test Artifacts
 
-Casos de teste: [Planilha Google Sheets Sprint 1](https://docs.google.com/spreadsheets/d/1DR2DbrE-qZ-SyAy2TjYhdHEFXM5QJexR/edit?rtpof=true&sd=true&gid=671114750#gid=671114750)
+- Test Cases: Google Sheets Sprint 1  
+https://docs.google.com/spreadsheets/d/1DR2DbrE-qZ-SyAy2TjYhdHEFXM5QJexR/edit  
 
-Bugs identificados: BR1 a BR10
+- Bugs Reported: BR1–BR10  
 
-🛠️ Tecnologias e Habilidades Aplicadas
+---
 
-🐍 Python
+## 🧠 Skills Applied
 
-🧪 Manual Testing
+- Regression testing  
+- Manual test execution  
+- Bug reporting and documentation  
+- Test case analysis  
+- QA workflow organization  
 
-🐞 Bug Reporting
+---
 
-📄 Test Cases
+## 🚀 Outcome
 
-🔧 GitHub
+This project demonstrates the ability to execute structured regression testing, identify defects, and document QA results in a clear and professional way.
 
-🧪 O que este sprint demonstra
+---
 
-Execução de teste de regressão completo
+## 🤝 Contact
 
-Estruturação de casos de teste manuais e status de execução
+📍 Portugal  
+🔗 LinkedIn: https://linkedin.com/in/fernanda-alves-09b36431  
+📧 Email: fernandacarneiroalvess@gmail.com  
 
-Registro de bugs detalhados com prioridade e etapas de reprodução
+---
 
-Organização e documentação de evidências de QA
-
-🤝 Contato
-
-📍 Portugal
-🔗 LinkedIn: (linkedin.com/in/fernanda-alves-09b36431)
-📧 Email: (fernandacarneiroalvess@gmail.com)
-
+⭐ Junior QA Engineer Portfolio
